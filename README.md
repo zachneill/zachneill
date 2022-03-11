@@ -13,11 +13,11 @@
 </a>
 <br />
 <br />
-...a full stack software developer. I code for Berea College's Dev Team and will be working at [NISC](https://www.nisc.coop/) this summer. 
+...a full stack software developer. I code for Berea College's Dev Team and will be working for <a href="https://nisc.coop">NISC</a> this summer. 
 
 I have experience in:
 
-* React
+* React (Check out my personal project, <a href="https://sigbuild.github.io">SigBuild</a>!)
 * Angular
 * Flask / Python
 * Spring Boot / Java
