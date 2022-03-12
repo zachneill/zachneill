@@ -20,7 +20,7 @@
 
 I have experience in:
 
-* React (Check out my personal project, <a href="https://sigbuild.github.io">SigBuild</a>!)
+* React
 * Angular
 * Flask / Python
 * Spring Boot / Java
