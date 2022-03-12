@@ -11,6 +11,9 @@
 <a href="https://discordapp.com/users/599753439983042572">
   <img align="left" alt="zach-neill-discord" width="30px" src="https://raw.githubusercontent.com/zachneill/zachneill/main/discord.svg" />
 </a>
+<a href="https://www.instagram.com/_amerasian/">
+  <img align="left" alt="zach-neill-instagram" width="30px" src="https://raw.githubusercontent.com/zachneill/zachneill/main/instagram.svg" />
+</a>
 <br />
 <br />
 ...a full stack software developer. I code for Berea College's Dev Team and will be working for <a href="https://nisc.coop">NISC</a> this summer. 
