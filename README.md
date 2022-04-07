@@ -20,12 +20,10 @@
 
 I have experience in:
 
-* React
-* Angular
 * Flask / Python
 * Spring Boot / Java
-
-
+* Angular
+* React
 
 
 ### I hope to see you soon! 👋
