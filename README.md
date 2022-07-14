@@ -21,8 +21,8 @@
 I have experience in:
 
 * Flask / Python
-* Spring Boot / Java
 * Angular
+* Spring Boot / Java
 * React
 
 
