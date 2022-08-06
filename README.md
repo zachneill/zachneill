@@ -20,8 +20,8 @@
 
 I have experience in:
 
-* Flask / Python
 * Angular
+* Flask / Python
 * Spring Boot / Java
 * React
 
