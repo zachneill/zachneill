@@ -16,7 +16,8 @@
 </a>
 <br />
 <br />
-...a full stack software developer. I code for <a href="https://nisc.coop" target="_blank">NISC</a> and <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a>. 
+...a full stack software developer. I code for <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a> 
+and previously <a href="https://nisc.coop" target="_blank">NISC</a> . 
 
 I have experience in:
 
