@@ -26,5 +26,6 @@ I have experience in:
 * Spring Boot / Java (<a href="https://bcvm.herokuapp.com" target="_blank">Personal project: BCVM</a>)
 * React (<a href="https://sigbuild.github.io" target="_blank">Personal project: SigBuild</a>)
 
+My portfolio is <a href="https://zachneill.github.io" target="_blank">here</a>.
 
 ### I hope to see you soon! 👋
