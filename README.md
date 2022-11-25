@@ -1,5 +1,5 @@
 ## Hey, I'm Zach 😄
-<a href="https://www.linkedin.com/in/zach-neill-0a957b197/">
+<a href="https://www.linkedin.com/in/zachneill/">
   <img align="left" alt="zach-neill-linkedin" width="30px" src="https://raw.githubusercontent.com/zachneill/zachneill/main/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/zach.neill.357">
