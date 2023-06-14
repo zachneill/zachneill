@@ -16,12 +16,11 @@
 </a>
 <br />
 <br />
-...a full stack software developer. I code for <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a> 
-and previously <a href="https://nisc.coop" target="_blank">NISC</a> . 
+...a full stack software developer. I've coded for <a href="https://nisc.coop" target="_blank">NISC</a> and <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a>. 
 
 I have experience in:
 
-* Angular
+* Angular (<a href="https://zachneill.github.io/too-loudifier/" target="_blank">Personal project: Too Loudifier</a>)
 * Flask / Python
 * Spring Boot / Java (<a href="https://bcvm.herokuapp.com" target="_blank">Personal project: BCVM</a>)
 * React (<a href="https://sigbuild.github.io" target="_blank">Personal project: SigBuild</a>)
