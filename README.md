@@ -19,7 +19,7 @@
 <br />
 ...a DevOps engineer for <a href="https://www.accenture.com/us-en/industries/afs-index" target="_blank">Accenture Federal Services</a>. I've also coded full stack for <a href="https://nisc.coop" target="_blank">NISC</a> and <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a>. 
 
-I have experience in:
+In addition to modern CI/CD technologies (Kubernetes, Jenkins, Ansible, Terraform, AWS), I have experience in:
 
 * Angular (<a href="https://zachneill.github.io/too-loudifier/" target="_blank">Personal project: Too Loudifier</a>)
 * Flask / Python
@@ -28,4 +28,4 @@ I have experience in:
 
 My portfolio is <a href="https://zachneill.github.io" target="_blank">here</a>.
 
-### I hope to see you soon! 👋
+### Let's get in touch soon! 👋
