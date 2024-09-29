@@ -17,7 +17,7 @@
 <!-- 543321UHHUH -->
 <br />
 <br />
-...a DevOps engineer for <a href="https://www.accenture.com/us-en/industries/afs-index" target="_blank">Accenture Federal Services</a>. I've also coded full stack for <a href="https://nisc.coop" target="_blank">NISC</a> and <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a>. 
+...a DevOps engineer for <a href="https://www.accenture.com" target="_blank">Accenture</a>. I've also coded full stack for <a href="https://nisc.coop" target="_blank">NISC</a> and <a href="https://github.com/BCStudentSoftwareDevTeam" target="_blank">Berea College's Dev Team</a>. 
 
 In addition to modern CI/CD technologies (Kubernetes, Jenkins, Ansible, Terraform, AWS), I have experience in:
 
